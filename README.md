@@ -1,19 +1,15 @@
-# calculator
+# [calculator](https://gboriss.github.io/calculator/)
+### calculator on vue.js 
 
-## Project setup
-```
-yarn install
-```
+* [Vue.js](https://vuejs.org/)
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+![calculator screenshot](https://i.ibb.co/JRKFV3X/calculator.png)
 
-### Compiles and minifies for production
-```
-yarn build
-```
+[DEMO](https://gboriss.github.io/calculator/)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Todo
+- [x]  +,-,/,x
+- [x]  C
+- [x]  equally
+- [x]  transform

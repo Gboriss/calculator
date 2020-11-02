@@ -16,6 +16,7 @@ export default {
 <style >
 body {
 	background-color: #36454d;
+	margin: 0;
 }
 #app {
 	font-family: 'Avenir', Helvetica, Arial, sans-serif;
@@ -24,7 +25,7 @@ body {
 	margin-top: 60px;
 	/* background-color: #333; */
 
-	width: 320px;
+	width: 300px;
 	height: 600px;
 	margin: 0 auto;
 
